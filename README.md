@@ -1,5 +1,6 @@
 # TerraformAWSproject
 # EC2 Utilization Monitoring and Alerting
+![Design](./System%20Design.png)
 
 ## Project Description
 
@@ -18,3 +19,4 @@ This project aims to monitor the utilization of an EC2 instance, and when it exc
 
 - *Infrastructure as Code:*
   - Terraform
+
